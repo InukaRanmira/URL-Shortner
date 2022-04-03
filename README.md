@@ -14,9 +14,7 @@
     <a href="https://github.com/InukaRanmira/URL-Shortner"> <img src="https://img.shields.io/github/repo-size/InukaRanmira/URL-Shortner?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/InukaRanmira/URL-Shortner/commits/"> <img src="https://img.shields.io/github/last-commit/InukaRanmira/URL-Shortner?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
     <a href="https://github.com/InukaRanmira/URL-Shortner/issues"> <img src="https://img.shields.io/github/issues/InukaRanmira/URL-Shortner?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/InukaRanmira/URL-Shortner/network/members"> <img src="https://img.shields.io/github/forks/InukaRanmira/URL-Shortner?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
-    <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
-</p>
+    <a href="https://github.com/InukaRanmira/URL-Shortner/network/members"> <img src="https://img.shields.io/github/forks/InukaRanmira/URL-Shortner?color=red&logo=github&logoColor=green&style=for-the-badge" /></a> 
 
 ## Deverloper 
 

@@ -45,10 +45,11 @@ me <a href="https://github.com/InukaRanmira">Inuka Ranmira </a>
 <a href="https://t.me/Szteambots"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
-## Credits
+## API Credits
 
 <p align="left">
   <a href="https://github.com/g99solutions/URL-Shortener-API">
     <img alt="G99 Solutions" src ="https://telegra.ph/file/6dde2b43766699bfedb53.jpg"
   </a>
 </p>
+
